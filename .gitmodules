@@ -1,0 +1,21 @@
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/raukaztaev/user_service
+[submodule "project_service"]
+	path = project_service
+	url = https://github.com/raukaztaev/project_service
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/raukaztaev/post_service
+[submodule "achievement_service"]
+	path = achievement_service
+	url = https://github.com/raukaztaev/achievement_service
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/raukaztaev/notification_service
+[submodule "analytics_service"]
+	path = analytics_service
+	url = https://github.com/raukaztaev/analytics_service
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/raukaztaev/payment_service
