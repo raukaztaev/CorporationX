@@ -19,3 +19,6 @@
 [submodule "payment_service"]
 	path = payment_service
 	url = https://github.com/raukaztaev/payment_service
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/raukaztaev/account_service
